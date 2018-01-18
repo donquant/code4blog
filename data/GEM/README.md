@@ -1,1 +1,1 @@
-### Data obtained from yahoo financial database on 18th Jan 2018 via R.
+#### Data obtained from Yahoo Finance on 18th Jan 2018 via R.
